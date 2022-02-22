@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bull-Feather Hall, or, The Antiquity and dignity of horns, amply shown as also a description of the manners, rites, customs, and revenues belonging to that ingenious and numerous Society of Bull-Feathers Hall : together with an exact relation of their manner of going to Highgate with trumpets and horn-musick, and their pioneers intended for the levying of the hill.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30069</idno>
+            <idno type="STC">Wing B5420</idno>
+            <idno type="STC">ESTC R32003</idno>
+            <idno type="EEBO-CITATION">12293840</idno>
+            <idno type="OCLC">ocm 12293840</idno>
+            <idno type="VID">58963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1501:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bull-Feather Hall, or, The Antiquity and dignity of horns, amply shown as also a description of the manners, rites, customs, and revenues belonging to that ingenious and numerous Society of Bull-Feathers Hall : together with an exact relation of their manner of going to Highgate with trumpets and horn-musick, and their pioneers intended for the levying of the hill.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Society of Bull-Feathers Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58963:1" rendition="simple:additions"/>
+            <p>Bull-Feather Hall: OR, The Antiquity and Dignity of HORNS, Amply ſhown.</p>
+            <p>As alſo a Deſcription of the Manners, Rites, Cuſtoms, and Revenues belonging to that inge<g ref="char:EOLhyphen"/>nious and numerous Society of <hi>Bull-Feathers Hall.</hi>
+            </p>
+            <p>Together with an exact Relation of their manner of going to <hi>Highgate</hi> with Trumpets and Horn-Muſick, and their Pioneers intended for the levying of the Hill.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Society of <hi>Bull-Feathers Hall.</hi> 1664.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58963:2"/>
+            <pb facs="tcp:58963:2"/>
+            <head>To the Noble Patron, and the inge<g ref="char:EOLhyphen"/>nious Society of BULL-FEATHER HALL.</head>
+            <lg>
+               <l>Sir, give me leave to ſpeak but what is true,</l>
+               <l>I dare aver, Horns don't belong to you.</l>
+               <l>Yet thogh they do n't it's not amiſs to know</l>
+               <l>What Cuckolds are, tho' none of you are ſo.</l>
+               <l>Accept theſe lines then, &amp; the Author ſays</l>
+               <l>That he wil wear y'r Feather for his Bays</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:58963:3"/>
+            <head>Bull-Feather-Hall, <hi>OR The Antiquity and Dignity of Horns amply ſhown, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He bare naming of <hi>Bull-Feathers-Hall,</hi> will rather amuſe ſuch as underſtand not what it is, than give ſatisfaction what is meant thereby. Therefore to avoid pro<g ref="char:EOLhyphen"/>lixity, I ſhall take in hand the ſubject matter, to wit, the Horn, and ſo in ſhort wind up my diſ<g ref="char:EOLhyphen"/>courſe. What the Bull's Feather ſignifieth, there is none ſo igno<g ref="char:EOLhyphen"/>rant but may eaſily conjecture, and none ſo wiſe but hath or may have it, to the obtaining of which, jealouſy is the readieſt way. To ſhew how far this ingenious So<g ref="char:EOLhyphen"/>ciety is from the leaſt ſuſpicion, they publickly play with thoſe Feathers which are the emblems of other mens aking foreheads. They are wiſe as the Serpent, that moſt of all guards and looks to his head, and are withall harmleſs (or as it is in the Original, hornleſs) as Doves. Now the truth of it is, there are none Cuckolds but ſuch as think themſelves ſo, which proceeds from conſciouſneſs of ſome defect, and ſo the word ſignifieth by three letters therein contained, if you will believe the ancient and Orthodox Expoſitors of the Word, O cold, O old, K knave, which put together is cold-old-knave, or as others would have it derived from Cock old, according to the French coquage, as much as to ſay, an aged Cock. This Etymology is drawn bare<g ref="char:EOLhyphen"/>ly from ſuppoſition, ſince the youngeſt and moſt luſty
+<pb n="5" facs="tcp:58963:3" rendition="simple:additions"/>are not exempted out of that number; when the ſign is in <hi>Capricorn</hi> or <hi>Aries</hi> there is no withſtanding the fate of Cuckolding. Coy and ſqueamiſh ſtomachs diſreliſh ſound, ſolid and wholſom fleſh, when a nicety, a codlin, or ſo forth, they ſhall greedily ſwallow. Nor is it the buckſome girle alone, but the ſeeming chaſt <hi>Diana</hi> that tranſformed <hi>Acteon</hi>'s head, therefore there is no reſtri<g ref="char:EOLhyphen"/>ction can deter a woman from having two bolts to her door, if ſhe ſo pleaſe; and for that ſame reaſon, it is Epi<g ref="char:EOLhyphen"/>demical patience only that muſt deſtroy the growth of that budding infamy. It is only the ſtrength of imagi<g ref="char:EOLhyphen"/>nation that doth oftentimes convert the Aſſe's long ears into horns; thus much concerning the riſe of the name, now touching the grounds for which they are ſaid to wear Horns: And truly 'tis no wonder ſo many have them, ſince the firſt leſſon they learn is taken out of their Hornbook; the reaſon I ſay that they are ſaid to wear Horns, may be drawn from the effect thereof, to wit, plenty; that man need not want that hath an handſome Woman to his Wife, that will be as willing to entertain, as he to conceal and wink at the actions of amorous viſitants. Hence it was that the Ancients pi<g ref="char:EOLhyphen"/>ctured Rivers with a man at the head thereof, with an Horn in his hand, intimating plenty flowing through it; Others will have it derived from the <hi>Indians,</hi> they ha<g ref="char:EOLhyphen"/>ving this cuſtom, that whoſoever preſented and Elephant to any woman, though married, might freely lie with her, which the Husband took as a great honour, that his Wife's beauty deſerved ſo great a preſent, and there<g ref="char:EOLhyphen"/>fore kept the horns to be ſhown, as we do our Coats of Arms. Neither do I know why any ſhould be aſhamed of his Horns, ſince the Gods in former times were pi<g ref="char:EOLhyphen"/>ctured with them, their Statues being made of Ivory. It's ſtoried, that Horns grew on the head of <hi>Cippus,</hi> which were preſently interpreted, that he ſhould be Em<g ref="char:EOLhyphen"/>peror.</p>
+            <p>Moreover, <hi>Aries</hi> and <hi>Taurus,</hi> the <hi>Ram</hi> and <hi>Bull</hi> are ſigns in the <hi>Zodiack,</hi> whereas <hi>
+                  <g ref="char:V">Ʋ</g>rſa Major &amp; Minor,</hi> with
+<pb n="6" facs="tcp:58963:4"/>other creatures, whoſe heads were never adorned with Antlers, are content to enjoy the honour of a conſtella<g ref="char:EOLhyphen"/>tion. <hi>Mahomet</hi> in his <hi>Alcoran</hi> declares, that the world is ſupported by an Ox; it is not improbable but that he meant the people who are called a Beaſt of many Heads, and conſequently of as many Horns. An Ox in former time was held in ſuch great eſtimation as to be accoun<g ref="char:EOLhyphen"/>ted a mans fellow, and whoſoever killed him was ad<g ref="char:EOLhyphen"/>judged worthy of death: what this Ox was, and what moral may be drawn from hence, I ſhall leave it to others to imagin. Beſides, of what great uſe horned Beaſts are to mankind, none will deny, either for food, as the <hi>Bull, Ram, Goat, Stag, &amp;c.</hi> and their fleſh not alone, but the Horns of ſome are of moſt excellent uſe in phyſick: the <hi>Harts</hi> Horns, and <hi>
+                  <g ref="char:V">Ʋ</g>nicorns</hi> Horns being the greateſt cordials that are. Take off your eies from the earth, and take a view of the ſuperficial Heaven, and there obſerve the Moon Horned, <hi>Aries</hi> and <hi>Taurus</hi> hor<g ref="char:EOLhyphen"/>ned, beſides <hi>Capricorn,</hi> &amp;c. all which have their operati<g ref="char:EOLhyphen"/>ons and influences on us mortalls. It is the Moon that makes us become Lunatick, or Horn mad, and therefore <hi>Tom-a-bedlams</hi> wear Horns about them, as acknowledg<g ref="char:EOLhyphen"/>ing her power: but ſuch of <hi>Bull-feathers Hall</hi> wear them to give the world to underſtand how free they are from ſuſpecting their Wives intregrity, making a publick laughter at that which ſo much troubles others. This ingenious Society doth, as <hi>Plempius</hi> a famous Phyſitian did, write of the ſight learnedly and elaborately though he himſelf was blind, or as D. <hi>Harvey</hi> compoſed an ex<g ref="char:EOLhyphen"/>cellent Treatiſe of generation whereas he himſelf had no Children. But ſomething more of the dignity of the <hi>Bulls Feather. Jupiter</hi> when he fell in love with <hi>Europa</hi> converts himſelf into a <hi>Bull,</hi> not ſcorning to wear what he gave to others, although he ventured his taking up for a ſacrifice. <hi>Mars</hi> on ſuch another amorous account turns himſelf into a <hi>Ram.</hi>
+            </p>
+            <p>It will not be amiſs ſince we have treated of the dig<g ref="char:EOLhyphen"/>nity of Horns to ſpeak ſomething of their antiquity.
+<pb n="7" facs="tcp:58963:4"/>Rabbi <hi>Joſeph</hi> affirmeth, that <hi>Cains</hi> mark was a Horn in his forehead; <hi>Cupid</hi> they ſay for certain tips his bow with horn: and therefore the Ancients report, that in the Chappel of jealouſie, the muſick of the Quire was Rams Horns and Cornets; the horned Moon, or <hi>Diana,</hi> had her uſual ſacrifices of Bulls heads; there are none but have heard of the battering Rams of old, and how the walls of <hi>Jericho</hi> fell by the ſound of Rams Horns: The <hi>Spaniard</hi> of old made an Office which they held in great honour called <hi>Gent. of the Horn,</hi> and happy was that Citizen that could be admitted into ſo high a place. Heralds make Horns a good bearing in Arms, and the <hi>Germans</hi> fancy above any thing to have them for their Creſts; among us it is an ancient cuſtom to have Horns in Halls or Parlors to hang Hats or Cloaks on, and ſome at this preſent take great delight to drink out of a Horn, and truly I am apt to believe that <hi>Corona</hi> which ſignifi<g ref="char:EOLhyphen"/>eth a Crown, is derived from <hi>Cornu</hi> a Horn; hence the <hi>Italians</hi> call the Duke of <hi>Venice</hi> Crown <hi>Corno,</hi> and is not much unlike an Horn, <hi>Seleucus</hi> and <hi>Lyſimachus</hi> gave ſtrict charge that their Statues ſhould have Horns, in memory of the Buls they held by the Horns flying from the Altars.</p>
+            <p>To conclude, in the non-age of the world, there hath been ſome born with Horns really growing on their heads. Who then but Horn-madmen will be diſplea<g ref="char:EOLhyphen"/>ſed at the ſight of a Horn? the way to make it no eie-ſore, is to be familiar with it; accuſtome your ſelves to it as we do, and you may look upon a <hi>Bulls Feather,</hi> and yet your eies not water. The men of old pictured Madam <hi>Luna</hi> with her ſhooes turning up like an Horn, from whence we draw this moral, that all jealous ſuſ<g ref="char:EOLhyphen"/>pectful and diſtruſting thoughts that cauſe the growth of the <hi>Bulls Feather,</hi> are to be troden under our feet, chooſing rather to wear ſeemingly what we have not, than to carry what we imaginarily have obſcurely in our pockets. We take a courſe to ſtab jealouſie to the heart, that it may not excruciate us with diſquieting thoughts; we know that the curbing females of their deſires doth but coach them to run headlong into preci<g ref="char:EOLhyphen"/>pices,
+<pb n="8" facs="tcp:58963:5"/>and if we fear to be deceived, we teach them but to decieve; and to be ſure, where jealouſie is Jaylor the wife will not fail to break priſon. <hi>Jupiter</hi> ingeni<g ref="char:EOLhyphen"/>ouſly confeſſeth, that it was <hi>Juno's</hi> ſuſpition that was the cauſe of his transformation into a <hi>Bull,</hi> bellowing out his luſtful deſires; It is very certain, according to the opi<g ref="char:EOLhyphen"/>nion of moſt Phyſitians, that imagination produceth real diſeaſes, and by conceiving a thing it ſeales an im<g ref="char:EOLhyphen"/>preſſion or <hi>idea</hi> of the thing imagined, and therefore fancies of being cornuted never trouble our heads, we have a <hi>ſuperſedeas</hi> againſt them, and have erected to our ſelves an Aſſurance Office for our wives chaſtities: Pro<g ref="char:EOLhyphen"/>vided, they ſhould get a fall, we muſt conſider they are, not Angels, but fleſh and blood, and live a<g ref="char:EOLhyphen"/>mong Engliſhmen, in Latine called <hi>Angli,</hi> as if one ſhould ſay, good Anglers in other mens ponds, there<g ref="char:EOLhyphen"/>fore do not lace them too ſtrait, leſt you make them go awry; the tyranny of conſtraint will never get the monarchy of hearts. Laſtly, if it be your fortune that your Horn muſt be exalted among the reſt of your Brethren, be content, ſince 'twas the decree of Fate; it is not abſurd to inhabit where another hath dwelt. <hi>An<g ref="char:EOLhyphen"/>toninus</hi> that brave Emperor honoured that perſon for loving too too amorouſly his Empreſs <hi>Fauſtina.</hi> King <hi>Agis</hi> was ſo far from being troubled at <hi>Alcibiades</hi> that cornuced him, that though it was publickly known, thought himſelf inconcerned with his Wife's infamy. You ſee the Heathen wear patiently their Horns, and in that even outvie a Spaniſh Chriſtian; ſhould it happen to any of us to have Antlers carved to us, we ſhould look upon them no more, than as the merry thoughts of Pullets; and I ſhould think him unwiſe that would throw away the dainty bit meerly for the reſemblance of the bone: if you will not allow of this doctrine, neither permitting <hi>Jove</hi> your Rival, nor admit of <hi>Pythagoras</hi> with his golden Ship as Partner in your ſheet, I wiſh you ſhipt in the ſhip of fools, bound for Cuckolds Haven, but by the way daſht againſt the Rocks of ſuſpicion and diſcontent.</p>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:58963:5"/>
+            <head>The Deſcription of the Manners, Rites, Cuſtoms, and Revenues belonging to that ingenious and numerous Society of <hi>Bull-Feathers Hall.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>His Club of <hi>Bull-Feathers-Hall</hi> is compo<g ref="char:EOLhyphen"/>ſed of ſelected Citizens, both ingenious and ſuch whom Fortune ſmileth on, be<g ref="char:EOLhyphen"/>ſides Gentlemen of no mean rank and quality. They meet every <hi>Tueſday</hi> and <hi>Thurſday</hi> in the evening at ſeven a clock, in <hi>Chequer-Yard</hi> in <hi>White-Chappel:</hi> Their intent of meeting is only to ſolace themſelves in harmleſs mirth and merriment, and to propagate good ſociety; when met at the time appointed, the Patron in his Crimſon Satten Gown, with his Cap furr'd and guarded with a ſmall pair of Antlers, ſeats himſelf in his Chair under a Canopy adorned with a large pair of Feathers: then is the Cryer of the Court commanded to proclaim, that every Brother of the Society then preſent cover his head with Court Caps, and ſo pay in his Club to the Stewards, which ſit on the right and left hand of the Patron; the Table before them is covered with a green Carpet, and before the Patron a large Velvet Cuſhion, on which lies the horned Scepter and Sword. The Brethren in very neat fur'd Caps, every one diverſly a<g ref="char:EOLhyphen"/>dorned with Feathers (as the cuſtom of the Court is to call them) ſeat themſelves promiſcuouſly, or as he finds his inclination leads him to delight in one Brothers ſociety more than another. They drink out of horn, which they call plate, and in the Room (which is very
+<pb n="10" facs="tcp:58963:6"/>large, ſuitable to the Society,) are placed round ſeveral ſorts of Horns, which they call Utenſils belonging to the Court, Their Orders or Laws enacted are very many, and are ſtrictly obſerved, there are not any of them but what are abſolutely neceſſary, or neceſſarily convenient; for, curſing, ſwearing, and blaſpheming is forbidden, nay, abhorred and ſeverely puniſhed with a mulct. If one Brother abuſe another, either by word or action, he is fined; neither do they tolerate carping at, or upbraid<g ref="char:EOLhyphen"/>ing other mens miſeries, or medling with State affairs, and more eſpecially Holy Writ, with many more very requiſite. Now if any Brother ſhall be complained on to the Patron for breach of any Order contained in a long Roll, the Brother offending, is by the Controller brought to the Bar; then is a Jury of three Brethren empannel'd by the Clerk, and ſworn by him on a blank book covered with Horn: the witneſſes being ſworn likewiſe, they give in their evidence, upon which the Priſoner hath full liberty to tender his defence. By way of digreſſion, it is extreamly pleaſant, nay profita<g ref="char:EOLhyphen"/>ble to the underſtanding, to hear how ingeniouſly ſophi<g ref="char:EOLhyphen"/>ſtical ſome will anſwer the charge drawn up againſt them, and to obſerve with what moderation and gra<g ref="char:EOLhyphen"/>vity the Patron weighs each particle, opening and ſta<g ref="char:EOLhyphen"/>ting the caſe to the Jury, who after that withdraw, and according as they find the fact ſo is the Priſoner fined, which fine is immediately payed unto the Steward, and laid up in publick ſtock; all which is done with ſobriety and without contradiction. There are ſeveral Officers belonging to the Court, which are elective or choſen once a quarter, and ſo ſhould the Patron; but he that now is hath ſo prudently, gravely and diſcreetly ma<g ref="char:EOLhyphen"/>naged that honourable place, the ſociety in general hath conferred upon him, that they are not inclinable to a new election.</p>
+            <p>The names of the Officers of <hi>Bull-Feathers Hall</hi> are theſe,
+<list>
+                  <item>The Patron.</item>
+                  <item>Two Stewards.</item>
+                  <pb n="11" facs="tcp:58963:6"/>
+                  <item>The Sword-bearer.</item>
+                  <item>The Mace-bearer</item>
+                  <item>Adopting Mace-bearer.</item>
+                  <item>Maſter of the Ceremonies.</item>
+                  <item>Mr. Controller. Cryer, or Porter.</item>
+               </list>
+            </p>
+            <p>As yet the Revenues of <hi>Bull-Feathers Hall</hi> is but ſmall, and what doth appertain unto it lieth diſperſed. As Horn-fair, the toll of all the gravel carryed up <hi>High<g ref="char:EOLhyphen"/>gate-Hill;</hi> They have ſome propriety in <hi>Horuſey</hi> and <hi>Cow-laue,</hi> a conſiderable quantity of Plate the Horners owe them: Beyond the Seas <hi>Crook-horn, Leghorn,</hi> and <hi>Oxman</hi> town in <hi>Ireland</hi> pay them conſtant tribute, nay the Great Turk acknowledgeth himſelf indebted to them for his <hi>Demy-lunes.</hi> And truly would every Bro<g ref="char:EOLhyphen"/>ther that is ſo, or merits adoption into the Fraternity, leave but a ſmall legacy to this Society, their Horn of plenty would exceed all others.</p>
+            <div type="part">
+               <head>The maner of their going from <hi>Busby's folly</hi> to <hi>High-gate.</hi>
+               </head>
+               <p>On <hi>Monday</hi> being the ſecond of <hi>May,</hi> ſome part of the Fraternity met at <hi>Busby's folly</hi> in <hi>Iſlington,</hi> where after they had ſet things in order by a due conſideration and conſultation among themſelves, they thus marched out — <hi>ordine quiſque ſuo.</hi> Firſt a ſet of Trumpets, then the Controller or Captain of the Pioneers with thirty or fourty following him with Pick-axes and Spades to le<g ref="char:EOLhyphen"/>vel the Hill, and Baskets withall to carry gravel: what quantity of gravel pits were ordered to be digg'd by that Tun of fleſh <hi>(alias)</hi> the Viceroy of <hi>Cornucopia,</hi> is yet un<g ref="char:EOLhyphen"/>certain. After them another ſet of Trumpeters, and alſo four that did wind the Horn, after them followed the Standard <hi>(alias)</hi> an exceeding large pair of Horns fixed on a pole which three men carried, with pennants on each tip, the Maſter of the Ceremonies attending it, with other Officers. Then followed the Flag with the Arms of the Society, with horned beaſts heads drawn thereon, with this Motto,</p>
+               <lg>
+                  <l>To have, and not to uſe the ſame,</l>
+                  <l>Is not their glory but their ſhame.</l>
+               </lg>
+               <p>After theſe came the Mace-bearer, then the Herauld at
+<pb n="12" facs="tcp:58963:7"/>Arms, with the Arms of the Society, The Coat I can<g ref="char:EOLhyphen"/>not rightly blazon, but I remember the ſupporters were on the one ſide a Woman with a whip in her hand, be<g ref="char:EOLhyphen"/>ſides that of her tongue, with a menacing look, and underneath half the Motto, <hi>Sic volo, ſic jubeo;</hi> on the other ſide a man in woful plight, and underneath him <hi>Patientia patimur.</hi> Then the Sword-bearer, and after him the Patron, on whoſe right and left hand went the two Stew<g ref="char:EOLhyphen"/>ards in Pluſh Jackets with large red Scarfs, the Patron in a Crimſon Satten Gown; after theſe followed the reſt of the Brethren by two; each in a various fur'd and horned Cap, and were brought up by no mean Officer with a large pair of Horns. The Cryer or Porter being then Marſhal went by their ſides.</p>
+               <p>In this Equipage they marched, and in very good order, attended by multitudes of peoples, ſome admiring, as well they might, as being a ſtrange ſight and unuſual, others ſpending their judgments, and paſſing their verdicts according to what their fancies repreſen<g ref="char:EOLhyphen"/>ted. 'Twere impoſſible to relate thoſe witty taunts and replications that paſt interchangeably, therefore I ſhall paſs over all, and only give you an account of tranſ<g ref="char:EOLhyphen"/>actions at <hi>High-gate;</hi> approaching near the Gate, the Viceroy of the gravel pits came out to meet them with his Mace and Cap; and after ſeveral congratulations reciprocally paſt between them, made a ſpeech to the Patron at large in a full Horn of plenty. After they had gone through the Gate, they came back, and ſo round the pond, and then came up to the Gate again, where one made a ſpeech, to this purpoſe.</p>
+               <lg>
+                  <head>HARK!</head>
+                  <l>Methinks I hear cenſorious Mimicks ſay,</l>
+                  <l>This is a <hi>May-</hi>game for ſome Holy-Day.</l>
+                  <l>Each day's a Feſtival, to them that may</l>
+                  <l>With freedome ſport themſelves on every day:</l>
+                  <l>Such are our perſons, and our fancies, we</l>
+                  <l>Both from confinement, and from Horns are free,</l>
+                  <l>Who then controlls our paſtime, or it ſcorn?</l>
+                  <pb n="13" facs="tcp:58963:7"/>
+                  <l>The greateſt Gallants love to wind an Horn,</l>
+                  <l>Beſides 'tis cuſtomary to ſome Nations,</l>
+                  <l>To take delight in imitating faſhions.</l>
+                  <l>But ſhould moſt wear, what is for Cuckolds made,</l>
+                  <l>Surely 'twould ſpoyle the Feather-makers trade:</l>
+                  <l>Our Feathers then don't ſhame us, ſince the beſt</l>
+                  <l>Fancy themſelves they have a fairer creſt;</l>
+                  <l>Whence obſervation plainly lets us know,</l>
+                  <l>Imagination makes a Cuckold ſo.</l>
+               </lg>
+               <p>The ſpeech being ended, they went to dinner, which was ſumptuouſly and readily brought up at the ſounding of Trumpets, and winding of Horns. All things were ordred with ſuch fore-ſight and prudence, as it gave a general ſatisfaction to all. After dinner ſeveral were adopted in manner and form following, the Officers of the ſociety in the ſeveral and reſpective places advan<g ref="char:EOLhyphen"/>ced about the room twice, or thrice, ſinging the ſong of the <hi>Bulls-Feather</hi> in theſe words.</p>
+               <lg>
+                  <l>IT chanced not long ago as I was walking,</l>
+                  <l>An Eccho did bring me where two were talking;</l>
+                  <l>'Twas a man ſaid to his wife, die had I rather,</l>
+                  <l>Than to be Cornuted, and wear the Bulls Feather.</l>
+               </lg>
+               <lg>
+                  <l>Then preſently ſhe reply'd, Sweet, art thou jealous?</l>
+                  <l>Thou canſt not play <hi>Vulcan</hi> before I play <hi>Venus:</hi>
+                  </l>
+                  <l>Thy Fancies are fooliſh ſuch follies to gather;</l>
+                  <l>There is many an honeſt man wears the Bulls Feather.</l>
+               </lg>
+               <lg>
+                  <l>Though it be inviſible, let no man it ſcorn,</l>
+                  <l>Being it's a new Feather made of an old Horn:</l>
+                  <l>He that diſdains it in mind or heart either,</l>
+                  <l>May be the more ſubject to wear the Bulls Feather.</l>
+               </lg>
+               <lg>
+                  <l>He that lives diſcontented, or in deſpair,</l>
+                  <l>And feareth falſe meaſure, becauſe his Wife's fair,</l>
+                  <pb n="14" facs="tcp:58963:8"/>
+                  <l>His thoughts are inconſtant, much like winter weather;</l>
+                  <l>Though one or two want it, He ſhall have a Feather.</l>
+               </lg>
+               <lg>
+                  <l>Bulls <hi>Feathers</hi> are common as <hi>Ergo</hi> i'th' Schools,</l>
+                  <l>And only contemned by thoſe that are Fools:</l>
+                  <l>Why ſhould a Bulls Feather cauſe any unreſt,</l>
+                  <l>Since Neighbor's fare alwaies is counted the beſt.</l>
+               </lg>
+               <lg>
+                  <l>Thoſe Women who are faireſt, are likeſt to give it;</l>
+                  <l>And Husbands that have them are apt to believe it:</l>
+                  <l>Some men though their Wives they ſeem for to tedder,</l>
+                  <l>Would play the kind Neighbors &amp; give the Buls Feather.</l>
+               </lg>
+               <lg>
+                  <l>Why ſhould we repine, that our Wives are ſo kind,</l>
+                  <l>Since we that are Husbands are of the ſame mind;</l>
+                  <l>Shall we give them Feathers and think to go free,</l>
+                  <l>Believe it, believe it, that hardly will be.</l>
+               </lg>
+               <lg>
+                  <l>For he that diſdains my Bulls Feather to day,</l>
+                  <l>May light of a Laſs that will play him foul play;</l>
+                  <l>There's ne're a proud Gallant, that treads on Cows leather,</l>
+                  <l>But may be Cornuted, and wear the Bulls Feather.</l>
+               </lg>
+               <lg>
+                  <l>The ſhorteſt, the talleſt, the fouleſt, the faireſt,</l>
+                  <l>The fatteſt, the leaneſt, the common'ſt the rareſt;</l>
+                  <l>When they and their Ducks are all merry together,</l>
+                  <l>Will be uſing tricks to advance the Bulls Feather.</l>
+               </lg>
+               <lg>
+                  <l>A King and a Cobler, a Lord and a Loone,</l>
+                  <l>A Prince and a Pedlar, a Courtier and Clown:</l>
+                  <l>Put all their degrees and conditions together,</l>
+                  <l>Are liable alwaies to wear the Bulls Feather.</l>
+               </lg>
+               <lg>
+                  <l>Though Beer of that Brewing I never did drink,</l>
+                  <l>Yet be not diſpleaſed, if I ſpeak what I think;</l>
+                  <l>Scarce ten in an hundred, believe it, believe it,</l>
+                  <l>But either they will have it, or elſe they will give it.</l>
+               </lg>
+               <pb n="15" facs="tcp:58963:8"/>
+               <lg>
+                  <l>Then let me adviſe all thoſe that do pine,</l>
+                  <l>For fear that falſe jealouſy ſhorten their Line:</l>
+                  <l>That Diſeaſe will torment them worſe than any Feaver,</l>
+                  <l>Then let all be contented, and wear the Bulls Feather.</l>
+               </lg>
+               <p>The Gentleman that is to be adopted, is arreſted by the Sword-bearer in the Patrons name, to be of that ſociety. The Maſter of the Ceremonies immediately placeth him in the Adopting Chair, where being ſat, the Controller cryes three times, <hi>Ceremonies,</hi> at which all the Brethren are bure. Then doth the Maſter of the Ceremonies, take off his hat, and in ſtead thereof plac<g ref="char:EOLhyphen"/>eth on his head a cap, and on a blanck-book Horned all over, gives him this Oath following:</p>
+               <lg>
+                  <head>The Oath that is given a Brother at his adoption.</head>
+                  <l>In the Patrons name of the <hi>Bulls-Feather,</hi>
+                  </l>
+                  <l>And the ſociety met together:</l>
+                  <l>I thee adopt, and on this book doſt ſwear</l>
+                  <l>Truth to the ſmock, and what's to it moſt near;</l>
+                  <l>And when thy natural ſtrength thou find'ſt decay,</l>
+                  <l>And on Veneral Viols canſt not play,</l>
+                  <l>With fiddle ſtick and finger I command,</l>
+                  <l>You frig and digitize with cap in hand,</l>
+                  <l>And then a leg in querpo ſhalt thou make;</l>
+                  <l>This ſhalt thou do for Madam <hi>Venus</hi> ſake:</l>
+                  <l>Laſtly obſerve, thou ſhalt eſteem none other</l>
+                  <l>Equal to this our Club, ſo welcome Brother.</l>
+               </lg>
+               <pb n="16" facs="tcp:58963:9"/>
+               <p>After this there is another name given him, and ſo preſented by the Sword-bearer and Controller to the Patron, who with much gravity receives him. At which all the Brethren make acclamations of joy: His name is entred, and the Orders given him to read. To conclude, this ingenious ſociety every quarter keep a feaſt, chooſing then new Officers. They are not ſo pro<g ref="char:EOLhyphen"/>fuſe in expence, nor extravagant in their mirth as to render them incapable or forgetful of doing works of charity, for on every ſuch feaſting day they give 12 do<g ref="char:EOLhyphen"/>zen of peny bread to the poor.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58963:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
